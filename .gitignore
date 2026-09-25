@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+
+# Large/generated artifacts (uncomment if models grow large)
+# models/*.pkl
